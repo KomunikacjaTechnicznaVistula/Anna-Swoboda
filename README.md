@@ -1,1 +1,1 @@
-# Anna-Swoboda
+# Pracuj.pl: User Guide
