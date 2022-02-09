@@ -2,6 +2,7 @@
 layout: default
 title: Pracuj.pl: Downloading and installing the app
 nav_order: 3
+parent: Application Quickstart Guide
 
 ---
 ## Downloading and installing the app
