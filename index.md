@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pracuj.pl: User Manual
+title: Introduction
 nav_order: 1
 description: User Manual for the Pracuj.pl application
 permalink: /
