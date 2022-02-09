@@ -13,7 +13,8 @@ Depending on the device that you use, you can download the **Pracuj.pl app** fro
 * [HUAWEIAppGallery](https://appgallery.huawei.com/#/app/C100957085?channelId=EUPLBDD20200805PR&detailType=0): specifically for HUAWEI devices.
 
 This is the installation process when using an Android device. After entering [GooglePlay](https://play.google.com/store/apps/details?id=pl.pracuj.android.jobsearcher&shortlink=51679bb6&pid=autopromo&c=autopromo_stopka_sg), you should see the following screen:
-<?xml version=”1.0” encoding=”UTF-8”?> <!DOCTYPE svg PUBLIC “-//W3C//DTD SVG 1.1//EN” “http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd”>
+
+![SVG in question](/_includes/Install.svg)
 
 {% include Install.svg %}
 
