@@ -5,6 +5,8 @@ nav_order: 1
 description: User Manual for the Pracuj.pl application
 permalink: /
 ---
+![Pracuj.pl Badge](/assets/logo_pracuj.jpg)
+
 # Introduction
 
 **Are you a foreigner looking for a job in Poland?** If you are new here or still have problems with the Polish language (understandable, as it is one of the hardest in the world!), you might be searching for work on international platforms, such as [LinkedIn](https://www.linkedin.com/) or [Glassdoor](https://www.glassdoor.com/index.htm).
