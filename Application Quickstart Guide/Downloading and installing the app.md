@@ -14,8 +14,6 @@ Depending on the device that you use, you can download the **Pracuj.pl app** fro
 
 This is the installation process when using an Android device. After entering [GooglePlay](https://play.google.com/store/apps/details?id=pl.pracuj.android.jobsearcher&shortlink=51679bb6&pid=autopromo&c=autopromo_stopka_sg), you should see the following screen:
 
-![SVG in question](/_includes/Install.svg)
-
 {% include Install.svg %}
 
 Tap *install*. Then, you should see these options:
