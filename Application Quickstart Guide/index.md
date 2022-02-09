@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pracuj.pl: Application Quickstart Guide
+title: Application Quickstart Guide
 nav_order: 2
 has_children: true
 
