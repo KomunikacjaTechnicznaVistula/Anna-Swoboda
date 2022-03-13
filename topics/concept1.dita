@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept1">
+    <title>concept1 f</title>
+    <shortdesc>Text</shortdesc>
+    <conbody>
+        <p>First</p>
+        <fig id="fig_itr_xnz_vsb"/>
+        <p>Second</p>
+    </conbody>
+</concept>
