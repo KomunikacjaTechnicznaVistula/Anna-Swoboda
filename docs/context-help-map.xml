@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="doing_something" path="topics/doing_something.html"/>
    <appContext helpID="concept1" path="topics/concept1.html"/>
+   <appContext helpID="concept2" path="topics/concept2.html"/>
+   <appContext helpID="concept3" path="topics/concept3.html"/>
+   <appContext helpID="doing_something" path="topics/doing_something.html"/>
+   <appContext helpID="doing_something_else2" path="topics/doing_something_else2.html"/>
+   <appContext helpID="doing_more_stuff_3" path="topics/doing_more_stuff_3.html"/>
    <appContext helpID="my_first_reference" path="topics/my_first_reference.html"/>
+   <appContext helpID="my_second_reference" path="topics/my_second_reference.html"/>
+   <appContext helpID="my_third_reference" path="topics/my_third_reference.html"/>
+   <appContext helpID="my_fourth_reference" path="topics/my_fourth_reference.html"/>
    <appContext helpID="my_first_reference" path="topics/my_first_reference.html"/>
    <appContext helpID="doing_something" path="topics/doing_something.html"/>
    <appContext helpID="concept1" path="topics/concept1.html"/>

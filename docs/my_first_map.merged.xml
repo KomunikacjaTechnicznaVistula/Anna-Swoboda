@@ -9,11 +9,38 @@
     </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title class="- topic/title ">my first map</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
     <title class="- topic/title ">my first map</title>
     
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="task"><topicmeta class="- map/topicmeta " data-topic-id="doing_something"><resourceid appid="doing_something" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Doing something</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author "/></topicmeta></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept1"><resourceid appid="concept1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">concept1 f</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Text</shortdesc><author class="- topic/author "/></topicmeta></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="my_first_reference"><resourceid appid="my_first_reference" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">my first reference</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author "/></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept1"><resourceid appid="concept1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">concept1 f</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Text</shortdesc><author class="- topic/author "/></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept2"><resourceid appid="concept2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">concept2</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author "/></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept3"><resourceid appid="concept3" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">concept3</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author "/></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="doing_something"><resourceid appid="doing_something" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Doing something</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author "/></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="doing_something_else2"><resourceid appid="doing_something_else2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">doing something else2</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author "/></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="doing_more_stuff_3"><resourceid appid="doing_more_stuff_3" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">doing more stuff 3</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author "/></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="my_first_reference"><resourceid appid="my_first_reference" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">my first reference</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author "/></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_8" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="my_second_reference"><resourceid appid="my_second_reference" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">my second reference</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author "/></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_9" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="my_third_reference"><resourceid appid="my_third_reference" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">my third reference</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author "/></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_10" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="my_fourth_reference"><resourceid appid="my_fourth_reference" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">my fourth reference</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author "/></topicmeta></topicref>
     
-</opentopic:map><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="doing_something" oid="doing_something" specializations="@props/deliveryTarget">
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="concept1" oid="concept1" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">concept1 f</ph></title>
+    <shortdesc class="- topic/shortdesc ">Text</shortdesc><prolog class="- topic/prolog "><author class="- topic/author "/></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">First</p>
+        <fig class="- topic/fig " id="unique_1_Connect_42_fig_itr_xnz_vsb" nd:nd-id="fig_itr_xnz_vsb"/>
+        <p class="- topic/p ">Second</p>
+    </conbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_2" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Doing something</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="concept2" oid="concept2" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">concept2</ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author "/></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="concept3" oid="concept3" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">concept3</ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author "/></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+</concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="doing_something" oid="doing_something" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Doing something</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author "/></prolog>
     <taskbody class="- topic/body task/taskbody ">
@@ -26,19 +53,37 @@
             </step>
         </steps>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_2" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>concept1 f</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Text</desc></link></linkpool></related-links></task><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="concept1" oid="concept1" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">concept1 f</ph></title>
-    <shortdesc class="- topic/shortdesc ">Text</shortdesc><prolog class="- topic/prolog "><author class="- topic/author "/></prolog>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">First</p>
-        <fig class="- topic/fig " id="unique_2_Connect_42_fig_itr_xnz_vsb" nd:nd-id="fig_itr_xnz_vsb"/>
-        <p class="- topic/p ">Second</p>
-    </conbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Doing something</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></concept><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="my_first_reference" oid="my_first_reference" specializations="@props/deliveryTarget">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>concept1 f</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Text</desc></link></linkpool></related-links></task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="doing_something_else2" oid="doing_something_else2" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">doing something else2</ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author "/></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "/>
+            </step>
+        </steps>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="doing_more_stuff_3" oid="doing_more_stuff_3" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">doing more stuff 3</ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author "/></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "/>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="my_first_reference" oid="my_first_reference" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">my first reference</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author "/></prolog>
     <refbody class="- topic/body        reference/refbody ">
-        <table class="- topic/table " colsep="1" frame="all" id="unique_3_Connect_42_table_nmm_qvz_vsb" nd:nd-id="table_nmm_qvz_vsb" rowsep="1">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_7_Connect_42_table_nmm_qvz_vsb" nd:nd-id="table_nmm_qvz_vsb" rowsep="1">
             <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Table</ph></title>
             <tgroup class="- topic/tgroup " cols="2">
                 <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;10:65" xtrf="file:/C:/Users/nicod/Desktop/Anna-Swoboda/topics/my_first_reference.dita" style="width:50%;"/>
@@ -66,4 +111,16 @@
             </tgroup>
         </table>
     </refbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Doing something</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_2" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>concept1 f</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Text</desc></link></linkpool></related-links></reference></map>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_2" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Doing something</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>concept1 f</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Text</desc></link></linkpool></related-links></reference><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="my_second_reference" oid="my_second_reference" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">my second reference</ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author "/></prolog>
+    <refbody class="- topic/body        reference/refbody "> </refbody>
+</reference><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="my_third_reference" oid="my_third_reference" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">my third reference</ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author "/></prolog>
+    <refbody class="- topic/body        reference/refbody "> </refbody>
+</reference><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="my_fourth_reference" oid="my_fourth_reference" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">my fourth reference</ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author "/></prolog>
+    <refbody class="- topic/body        reference/refbody "> </refbody>
+</reference></map>

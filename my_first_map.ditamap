@@ -5,9 +5,16 @@
     <topicmeta>
         <author/>
     </topicmeta>
-    <topicref href="topics/doing_something.dita"/>
     <topicref href="topics/concept1.dita"/>
+    <topicref href="topics/concept2.dita"/>
+    <topicref href="topics/concept3.dita"/>
+    <topicref href="topics/doing_something.dita"/>
+    <topicref href="topics/doing_something_else2.dita"/>
+    <topicref href="topics/doing_more_stuff_3.dita"/>
     <topicref href="topics/my_first_reference.dita"/>
+    <topicref href="topics/my_second_reference.dita"/>
+    <topicref href="topics/my_third_reference.dita"/>
+    <topicref href="topics/my_fourth_reference.dita"/>
     <reltable>
         <relheader>
             <relcolspec/>

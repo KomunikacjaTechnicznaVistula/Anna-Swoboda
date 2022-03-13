@@ -1,3 +1,3 @@
 define(function () {
-return ["topics/concept1.html@@@concept1 f@@@Text...","topics/doing_something.html@@@Doing something@@@Optional...","topics/my_first_reference.html@@@my first reference@@@Table 1 . Table..."];
+return ["my_first_map.merged.html@@@my first map@@@...","topics/concept1.html@@@concept1 f@@@Text...","topics/concept2.html@@@concept2@@@...","topics/concept3.html@@@concept3@@@...","topics/doing_more_stuff_3.html@@@doing more stuff 3@@@...","topics/doing_something.html@@@Doing something@@@Optional...","topics/doing_something_else2.html@@@doing something else2@@@...","topics/my_first_reference.html@@@my first reference@@@Table 1 . Table...","topics/my_fourth_reference.html@@@my fourth reference@@@...","topics/my_second_reference.html@@@my second reference@@@...","topics/my_third_reference.html@@@my third reference@@@..."];
 });
