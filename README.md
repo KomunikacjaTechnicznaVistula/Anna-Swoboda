@@ -1,1 +1,0 @@
-# Pracuj.pl: User Guide
