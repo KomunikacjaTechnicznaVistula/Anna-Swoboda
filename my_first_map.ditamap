@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>my first map</title>
+    <topicmeta>
+        <author/>
+    </topicmeta>
+    <topicref href="topics/concept1.dita"/>
+    <topicref href="topics/concept2.dita"/>
+    <topicref href="topics/concept3.dita"/>
+    <topicref href="topics/doing_something.dita"/>
+    <topicref href="topics/doing_something_else2.dita"/>
+    <topicref href="topics/doing_more_stuff_3.dita"/>
+    <topicref href="topics/my_first_reference.dita"/>
+    <topicref href="topics/my_second_reference.dita"/>
+    <topicref href="topics/my_third_reference.dita"/>
+    <topicref href="topics/my_fourth_reference.dita"/>
+    <reltable>
+        <relheader>
+            <relcolspec/>
+            <relcolspec/>
+        </relheader>
+        <relrow>
+            <relcell>
+                <topicref href="topics/my_first_reference.dita" linking="sourceonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/doing_something.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/concept1.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/doing_something.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/concept1.dita" linking="targetonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/my_first_reference.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>
+</map>
